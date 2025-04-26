@@ -13,4 +13,5 @@ export default async (modelName: "Question", collectionName: string) => {
   } catch (err) {
     throw err;
   }
+  
 }
